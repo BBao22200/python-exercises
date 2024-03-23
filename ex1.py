@@ -91,7 +91,6 @@ for num in range(2000, 3201):
         result.append(num)
 
 print('ex6: ')
-print('test variable',list(map(str, result)))
 print(','.join(map(str, result)))
 
 # Ex7: Write a program, which will find all such numbers between 1000 and 3000 (both included) such that each digit of the number is an even number.
